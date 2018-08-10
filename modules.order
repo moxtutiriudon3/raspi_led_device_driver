@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kernel//home/ubuntu/gpio_device/led_device_cls/myled_cls.ko
+=======
+kernel//home/ubuntu/raspi_led_device_driver/myled.ko
+>>>>>>> c216ea5fa826bb883cdddf8d809ce424f04451ef
