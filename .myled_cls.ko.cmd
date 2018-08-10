@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/gpio_device/led_device_cls/myled_cls.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ubuntu/gpio_device/led_device_cls/myled_cls.ko /home/ubuntu/gpio_device/led_device_cls/myled_cls.o /home/ubuntu/gpio_device/led_device_cls/myled_cls.mod.o ;  true
